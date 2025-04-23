@@ -1,2 +1,2 @@
- # Github: https://github.com/laptrinhcc/html-css-js_basic-tutorial-beginners
+ # Github: https://github.com/laptrinhcc
  # YouTube: https://youtube.com/@laptrinhcc
