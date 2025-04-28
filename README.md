@@ -1,10 +1,16 @@
-#      *** Cách chọn nhanh từng dòng ***
-# Click tại đầu dòng muốn chọn sau đó nhấp giữ shift và click cuối dòng,Viết tắt:[Click-start->Shift+Click-end]
-#      *** Cách chọn nhanh nhiều dòng hoặc nhiều vùng ***
-# Nhấn giữ Alt và click giữ chuột,Viết tắt:[Alt+Click-rê] chọn "Dòng"hoặc "Vùng" cần chọn,làm lại thao tác để chọn "Dòng"hoặc "Vùng" khác~
-#      *** Cách bật Clipboard trong Window ***
-# Trên bàn phím nhấn giữ phím Window và bấm phím v 
-# Viết tắt:[Win+v] -> click vào Turn on trên màn hình để bật clipboard.Sau khi copy,cut -> [Win+v] -> là danh sách những gì đã copy,cut -> chọn những gì cần paste
+# BÀN PHÍM ? ...
+1: Ctrl + x <=> cut 
+2: Ctrl + c <=> copy
+3: Ctrl + v <=> paste
+4: Alt + click move mouse <=> chọn những gì chuột di qua
+5:Alt + clicks <=> đặt con trỏ những nơi click
+6:Shift + click <=> chọn từ vị trí con trỏ hiện tại đến vị trí click 
+7:Win + v <=> mở clipboard 
+8:Ctrl + z <=> phục hồi thao tác 
+9:Shift + Alt + down <=> copy xuống dòng dưới
+10:Shift + Alt + up <=> copy lên dòng trên
+11:Alt + down <=> di chuyển dòng hiện tại (đặt con trỏ) xuống dưới
+12:Alt + up <=> di chuyển dòng hiện tại (đặt con trỏ) lên trên
 # Github: https://github.com/laptrinhcc
 # YouTube: https://youtube.com/@laptrinhcc
 # Website : http://laptrinhcc.great-site.net
